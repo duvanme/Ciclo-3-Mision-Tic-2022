@@ -1,5 +1,4 @@
 Hola Git
 
 Probando repositorio
-
 Prueba con merge
